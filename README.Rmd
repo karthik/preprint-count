@@ -1,0 +1,76 @@
+---
+title: "Papers with preprints"
+author: "Karthik Ram & Jennifer Lin"
+date: "7/6/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+```{r, echo = FALSE, warning=FALSE}
+suppressPackageStartupMessages(library(tidyverse, warn.conflicts = FALSE, quietly = TRUE))
+suppressPackageStartupMessages(library(rcrossref))
+suppressPackageStartupMessages(library(jsonlite))
+suppressPackageStartupMessages(library(stringr))
+suppressPackageStartupMessages(library(jsonlite))
+suppressPackageStartupMessages(library(glue))
+suppressPackageStartupMessages(library(janitor))
+suppressPackageStartupMessages(library(httr))
+```
+
+
+```{r}
+
+get_names <- function(x) {
+  z <- glue("http://api.crossref.org/journals/", x) %>% httr::GET()
+  if (httr::status_code(z) == 200) {
+    zz <- jsonlite::fromJSON(content(z, as = "text"))
+    zz$message$publisher
+  } else {
+    "NULL"
+  }
+}
+```
+
+```{r, cache = TRUE}
+
+url <- "https://api.crossref.org/works?filter=relation.type:has-preprint&facet=issn:*"
+y <- httr::GET(url) %>% httr::content()
+df <-  (y$message$facets$issn$values) %>% bind_rows() %>% t() %>% data.frame()
+df_clean <- df %>% rownames_to_column("issn")
+names(df_clean) <- c("issn", "count")
+
+df_clean %>%  mutate(issn2 = str_replace(issn, "http://id.crossref.org/issn/", "")) %>% 
+  select(issn2, count) -> df2
+```
+
+
+```{r, cache = TRUE}
+df2[1:200, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df3
+df2[201:400, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df4
+df2[401:600, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df5
+df2[601:800, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df6
+df2[801:1000, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df7
+df2[1001:1411, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df8
+
+```
+
+
+```{r}
+full_df <- bind_rows(df3, df4, df5, df6, df7, df8)
+full_df %>% select(publisher, count) %>% distinct(publisher, count) -> clean_full_df
+knitr::kable(clean_full_df)
+```
+
+```{r}
+write_csv(clean_full_df, path = "full_preprint_count.csv") 
+```
+
+
+
+
+```
+
