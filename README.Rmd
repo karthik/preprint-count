@@ -2,7 +2,7 @@
 title: "Papers with preprints"
 author: "Karthik Ram & Jennifer Lin"
 date: "7/6/2018"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
