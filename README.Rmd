@@ -28,15 +28,15 @@ get_names <- function(x) {
   z <- glue("http://api.crossref.org/journals/", x) %>% httr::GET()
   if (httr::status_code(z) == 200) {
     zz <- jsonlite::fromJSON(content(z, as = "text"))
-    zz$message$publisher
+    data.frame(issn = x, publisher = zz$message$publisher, title = zz$message$title, stringsAsFactors = FALSE)
   } else {
     "NULL"
   }
 }
+
 ```
 
-```{r, cache = TRUE}
-
+```{r get_facets, cache = TRUE}
 url <- "https://api.crossref.org/works?filter=relation.type:has-preprint&facet=issn:*"
 y <- httr::GET(url) %>% httr::content()
 df <-  (y$message$facets$issn$values) %>% bind_rows() %>% t() %>% data.frame()
@@ -45,23 +45,28 @@ names(df_clean) <- c("issn", "count")
 
 df_clean %>%  mutate(issn2 = str_replace(issn, "http://id.crossref.org/issn/", "")) %>% 
   select(issn2, count) -> df2
+names(df2) <- c("issn", "count")
+```
+
+```{r get_issns, cache = TRUE, message = FALSE}
+stuff <- list()
+for (i in 1:nrow(df2)) {
+  x = df2[i, ]$issn
+  res <- get_names(x)
+  message("Retrieving issn ", i)
+  stuff[[i]] <- res
+}
+
+stuff1 <- stuff[-(which(lengths(stuff) == 1))]
+issn_lookup <- bind_rows(stuff1)
+write_csv(issn_lookup, path = "issn_lookup.csv")
 ```
 
 
-```{r, cache = TRUE}
-df2[1:200, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df3
-df2[201:400, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df4
-df2[401:600, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df5
-df2[601:800, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df6
-df2[801:1000, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df7
-df2[1001:1411, ] %>% rowwise() %>% mutate(publisher = get_names(issn2)) -> df8
-
-```
-
-
-```{r}
-full_df <- bind_rows(df3, df4, df5, df6, df7, df8)
-full_df %>% select(publisher, count) %>% distinct(publisher, count) -> clean_full_df
+```{r merge_issn_data, results= "as-is", cache = TRUE}
+results <- left_join(df2, issn_lookup, by = "issn")
+res <- results %>% filter(!is.na(publisher) & !is.na(title))
+res %>% select(publisher, title, count) %>% distinct(publisher, count, title) -> clean_full_df
 knitr::kable(clean_full_df)
 ```
 

@@ -1,380 +1,1054 @@
-publisher,count
-PeerJ,1184
-Springer Nature,432
-"""eLife Sciences Organisation, Ltd.""",375
-Public Library of Science,338
-Oxford University Press,207
-Proceedings of the National Academy of Sciences,205
-Public Library of Science,196
-Springer Nature,187
-Public Library of Science,169
-The Genetics Society of America,168
-Oxford University Press,148
-The Genetics Society of America,120
-The Genetics Society of America,104
-NULL,104
-Cold Spring Harbor Laboratory,104
-Oxford University Press,100
-MDPI AG,98
-NULL,96
-MDPI AG,96
-Springer (Biomed Central Ltd.),92
-MDPI AG,86
-JMIR Publications Inc.,83
-MDPI AG,80
-MDPI AG,79
-Springer (Biomed Central Ltd.),76
-Society for Neuroscience,73
-Oxford University Press,68
-PeerJ,67
-MDPI AG,67
-Springer Nature,66
-Springer Nature,63
-JMIR Publications Inc.,62
-MDPI AG,57
-JMIR Publications Inc.,52
-MDPI AG,52
-Wiley (Blackwell Publishing),49
-Oxford University Press,47
-MDPI AG,46
-MDPI AG,43
-Public Library of Science,43
-Elsevier ,42
-Springer Nature,41
-MDPI AG,40
-Oxford University Press,39
-"""F1000 Research, Ltd.""",36
-Elsevier ,36
-Elsevier ,34
-American Chemical Society,34
-Wiley (Blackwell Publishing),34
-The Royal Society,32
-American Association for the Advancement of Science (AAAS),32
-Public Library of Science,31
-MDPI AG,30
-Public Library of Science,30
-Frontiers Media SA,30
-Elsevier ,30
-Elsevier ,29
-The Royal Society,28
-Wiley (Blackwell Publishing),27
-Springer Nature,27
-Wiley (Blackwell Publishing),25
-MDPI AG,24
-Microbiology Society,24
-Wiley (John Wiley & Sons),24
-Society for Neuroscience,23
-JMIR Publications Inc.,23
-Springer (Biomed Central Ltd.),22
-American Physiological Society,22
-Oxford University Press,22
-Springer Nature,21
-Oxford University Press,21
-MDPI AG,20
-Springer (Biomed Central Ltd.),20
-American Society for Biochemistry and Molecular Biology,20
-Elsevier ,20
-JMIR Publications Inc.,19
-The Royal Society,19
-EMBO,19
-The University of Chicago Press,19
-American Association for the Advancement of Science (AAAS),18
-MDPI AG,18
-"""Impact Journals, LLC """,18
-Cold Spring Harbor Laboratory,18
-Wiley (Blackwell Publishing),18
-NULL,17
-Springer Nature,17
-MDPI AG,17
-The Rockefeller University Press,17
-Wiley (John Wiley & Sons),17
-American Society for Microbiology,16
-Springer Nature,16
-MDPI AG,16
-Springer (Biomed Central Ltd.),16
-EMBO,16
-MDPI AG,15
-Springer (Biomed Central Ltd.),15
-Frontiers Media SA,15
-The Royal Society,15
-Wiley (Blackwell Publishing),15
-Elsevier ,15
-MDPI AG,14
-Oxford University Press,14
-Springer (Biomed Central Ltd.),14
-The Company of Biologists,14
-NULL,14
-Wiley (Blackwell Publishing),14
-Springer Nature,14
-JMIR Publications Inc.,13
-MDPI AG,13
-Frontiers Media SA,13
-IOP Publishing,13
-Elsevier ,13
-MDPI AG,12
-NULL,12
-Springer Nature,12
-American Society of Plant Biologists,12
-Elsevier ,11
-JMIR Publications Inc.,11
-MDPI AG,11
-Springer (Biomed Central Ltd.),11
-Wiley (John Wiley & Sons),11
-JMIR Publications Inc.,10
-MDPI AG,10
-Frontiers Media SA,10
-NULL,10
-MIT Press,10
-Oxford University Press,10
-Wiley (Blackwell Publishing),10
-American Physical Society,10
-Elsevier ,10
-American Society of Plant Biologists,10
-American Society for Microbiology,9
-MDPI AG,9
-Frontiers Media SA,9
-NULL,9
-American Chemical Society,9
-Cold Spring Harbor Laboratory,9
-Wiley (John Wiley & Sons),9
-MDPI AG,8
-Springer Nature,8
-Public Library of Science,8
-The Royal Society,8
-Frontiers Media SA,8
-Elsevier ,8
-Oxford University Press,8
-American Society for Biochemistry and Molecular Biology,8
-EMBO,8
-Springer (Biomed Central Ltd.),8
-Springer-Verlag,8
-JMIR Publications Inc.,7
-MDPI AG,7
-Wiley (Blackwell Publishing),7
-Oxford University Press,7
-Springer (Biomed Central Ltd.),7
-The Royal Society,7
-Frontiers Media SA,7
-Springer-Verlag,7
-Mary Ann Liebert,7
-Landes Bioscience,7
-American Association for Cancer Research,7
-American Chemical Society,7
-Springer Nature,7
-The Company of Biologists,7
-Portland Press,7
-Elsevier ,7
-Scientific Societies,7
-"""F1000 Research, Ltd.""",6
-Springer Nature,6
-American Society for Microbiology,6
-American Society for Clinical Investigation,6
-JMIR Publications Inc.,6
-MDPI AG,6
-Mary Ann Liebert,6
-Springer (Biomed Central Ltd.),6
-Wiley (John Wiley & Sons),6
-Springer-Verlag,6
-The American Association of Immunologists,6
-The Company of Biologists,6
-NULL,6
-Elsevier ,6
-Wiley (Blackwell Publishing),6
-MIT Press,5
-MDPI AG,5
-Elsevier ,5
-The Optical Society,5
-Wiley (John Wiley & Sons),5
-Springer Nature,5
-American Association for the Advancement of Science (AAAS),5
-American Society for Cell Biology,5
-JMIR Publications Inc.,5
-The Royal Society of Chemistry,5
-Frontiers Media SA,5
-American Chemical Society,5
-Association for Research in Vision and Ophthalmology (ARVO),5
-Oxford University Press,5
-Springer-Verlag,5
-Wiley (Blackwell Publishing),5
-Scientific Societies,5
-Elsevier ,4
-JMIR Publications Inc.,4
-MDPI AG,4
-Frontiers Media SA,4
-International Union of Crystallography,4
-Springer Nature,4
-Wiley (John Wiley & Sons),4
-Future Science,4
-Institute of Mathematical Statistics,4
-Springer-Verlag,4
-NULL,4
-Cambridge University Press,4
-Wiley (Blackwell Publishing),4
-The Royal Society of Chemistry,4
-Springer (Biomed Central Ltd.),4
-American Chemical Society,4
-Public Library of Science,4
-Oxford University Press,4
-Microbiology Society,4
-American Society for Microbiology,4
-American Institute of Physics,4
-Mary Ann Liebert,4
-JMIR Publications Inc.,3
-Wiley (John Wiley & Sons),3
-MDPI AG,3
-Elsevier ,3
-SPIE - International Society for Optical Engineering,3
-Springer Nature,3
-Springer (Biomed Central Ltd.),3
-"""Future Science, LTD""",3
-The Royal Society of Chemistry,3
-American Chemical Society,3
-"""Impact Journals, LLC """,3
-The Plant Genome,3
-MyJoVE Corporation,3
-Springer-Verlag,3
-World Scientific ,3
-The Company of Biologists,3
-Oxford University Press,3
-Hindawi Publishing Corporation (Sage-Hindawi Access to Research),3
-Frontiers Media SA,3
-Wiley (Blackwell Publishing),3
-NULL,3
-Institute of Electrical and Electronics Engineers,3
-Landes Bioscience,3
-American Physical Society,3
-American Association for Clinical Chemistry,3
-"""Libertas Academica, Ltd.""",3
-American Society for Microbiology,3
-The Optical Society,3
-UPV/EHU Press,3
-MDPI AG,2
-Open Access Text,2
-Springer Nature,2
-Pensoft Publishers,2
-Institute of Electrical and Electronics Engineers,2
-OMICS Publishing Group,2
-Hindawi Limited,2
-Frontiers Media SA,2
-Walter de Gruyter GmbH,2
-Landes Bioscience,2
-Wiley (John Wiley & Sons),2
-American Physical Society,2
-Wiley (Physiological Reports),2
-Oxford University Press,2
-BMJ,2
-NULL,2
-Springer (Biomed Central Ltd.),2
-The Royal Society of Chemistry,2
-American Psychological Association,2
-Annual Reviews,2
-Springer-Verlag,2
-Elsevier ,2
-IOS Press,2
-"""UKOLN, University of Bath""",2
-IOP Publishing,2
-European Centre for Disease Control and Prevention (ECDC),2
-SAGE Publications,2
-Association for Research in Vision and Ophthalmology (ARVO),2
-The Rockefeller University Press,2
-Informa UK (Taylor & Francis),2
-Springer - Psychonomic Society,2
-American Chemical Society,2
-Federation of American Society for Experimental Biology,2
-American Society for Pharmacology & Experimental Therapeutics,2
-Wiley (Blackwell Publishing),2
-Portland Press,2
-Cambridge University Press,2
-Microbiology Society,2
-International Union of Crystallography,2
-"""Libertas Academica, Ltd.""",2
-American Society for Microbiology,2
-MDPI AG,1
-JMIR Publications Inc.,1
-IOS Press,1
-Springer-Verlag,1
-"""Centre of Sociological Research, NGO""",1
-The Open Journal,1
-American Society of Clinical Oncology,1
-SAGE Publications,1
-Wiley (John Wiley & Sons),1
-American Association for the Advancement of Science (AAAS),1
-American Chemical Society,1
-Elsevier ,1
-Journal of Applied Pharmacuetical Science,1
-Springer Nature,1
-Informa UK (Taylor & Francis),1
-Ovid Technologies (Wolters Kluwer) - American Academy of Neurology,1
-Cold Spring Harbor Laboratory,1
-Springer (Biomed Central Ltd.),1
-Kernel Press UG,1
-APD SKEG,1
-American Association for Cancer Research,1
-International Journal Of Advanced Research,1
-Excellent Publishers,1
-Frontiers Media SA,1
-Ivyspring International Publisher,1
-NULL,1
-Beilstein-Institut,1
-Biophysical Society of Japan,1
-OMICS Publishing Group,1
-American Society for Microbiology,1
-American Scientific Publishers,1
-Landes Bioscience,1
-The Optical Society,1
-"""Scientific Research Publishing, Inc.""",1
-Strategic Public Management Journal,1
-New Trends in Mathematical Science,1
-Hindawi Limited,1
-Oxford University Press,1
-IOP Publishing,1
-BMJ,1
-The Royal Society of Chemistry,1
-PAGEPress Publications,1
-Baishideng Publishing Group Co (World Journal of Hepatology),1
-"""Impact Journals, LLC """,1
-Mary Ann Liebert,1
-The Endocrine Society,1
-BioOne (National Shellfisheries Association),1
-Springer - Psychonomic Society,1
-Ovid Technologies Wolters Kluwer -American Heart Association,1
-Institute of Electrical and Electronics Engineers,1
-The University of Chicago Press,1
-American Psychological Association,1
-BioOne (Cooper Ornithological Society),1
-BioOne (American Association of Avian Pathologists),1
-BioOne (American Ornithologists Union),1
-American Society for Cell Biology,1
-Wiley (Blackwell Publishing),1
-Pensoft Publishers,1
-University of Illinois Libraries,1
-Genetics and Molecular Research,1
-S. Karger AG,1
-Inter-Research Science Center,1
-BioOne (Coastal Education and Research Foundation),1
-American Institute of Mathematical Sciences,1
-Annual Reviews,1
-Society for Industrial and Applied Mathematics,1
-American Psychiatric Publishing,1
-American Thoracic Society,1
-New England Journal of Medicine,1
-American Physiological Society,1
-Ovid Technologies (Wolters Kluwer)  - Lippincott Williams & Wilkins,1
-American Meteorological Society,1
-Canadian Science Publishing,1
-Bioscientifica,1
-Cambridge University Press,1
-The Royal Society,1
-Portland Press,1
-Bentham Science,1
-Japan Society for Analytical Chemistry,1
-Slovak University of Agriculture in Nitra,1
-Ankara University,1
-IOP Publishing - Europhysics Letters,1
-London Mathematical Society,1
-American Institute of Physics,1
-Baishideng Publishing Group Co ,1
-Medknow Publications,1
-CrossRef test user,1
-SPIE - International Society for Optical Engineering,1
-Naturalis Biodiversity Center,1
+publisher,title,count
+PeerJ,PeerJ,1184
+Springer Nature,Scientific Reports,415
+"""eLife Sciences Organisation, Ltd.""",eLife,375
+Public Library of Science,PLoS ONE,338
+Oxford University Press,Bioinformatics,207
+Proceedings of the National Academy of Sciences,Proceedings of the National Academy of Sciences,205
+Public Library of Science,PLoS Computational Biology,196
+Springer Nature,Nature Communications,187
+Public Library of Science,PLoS Genetics,169
+The Genetics Society of America,Genetics,168
+Oxford University Press,Nucleic Acids Research,148
+The Genetics Society of America,Genetics,120
+The Genetics Society of America,G3 Genes|Genome|Genetics,104
+Cold Spring Harbor Laboratory,Genome Research,104
+Oxford University Press,Molecular Biology and Evolution,100
+MDPI AG,Energies,98
+MDPI AG,Sensors,96
+Springer (Biomed Central Ltd.),BMC Genomics,92
+MDPI AG,International Journal of Molecular Sciences,86
+JMIR Publications Inc.,Journal of Medical Internet Research,83
+MDPI AG,Sustainability,80
+MDPI AG,Molecules,79
+Springer (Biomed Central Ltd.),BMC Bioinformatics,76
+Society for Neuroscience,Journal of Neuroscience,73
+Oxford University Press,Genome Biology and Evolution,68
+PeerJ,PeerJ Computer Science,67
+MDPI AG,International Journal of Environmental Research and Public Health,67
+Springer Nature,Nature Genetics,66
+Springer Nature,Nature Methods,63
+JMIR Publications Inc.,JMIR Research Protocols,62
+MDPI AG,Materials,57
+JMIR Publications Inc.,JMIR mhealth and uhealth,52
+MDPI AG,Entropy,52
+Wiley (Blackwell Publishing),Molecular Ecology,49
+Oxford University Press,GigaScience,47
+MDPI AG,Remote Sensing,46
+MDPI AG,Nutrients,43
+Public Library of Science,PLoS Biology,43
+Elsevier ,NeuroImage,42
+Springer Nature,Nature,41
+MDPI AG,Water,40
+Oxford University Press,Systematic Biology,39
+"""F1000 Research, Ltd.""",F1000Research,36
+Elsevier ,The American Journal of Human Genetics,36
+Elsevier ,Cell Reports,34
+American Chemical Society,ACS Synthetic Biology,34
+Wiley (Blackwell Publishing),Evolution,34
+The Royal Society,Journal of The Royal Society Interface,32
+American Association for the Advancement of Science (AAAS),Science,32
+Public Library of Science,PLoS Pathogens,31
+MDPI AG,Applied Sciences,30
+Public Library of Science,PLoS Neglected Tropical Diseases,30
+Frontiers Media SA,Frontiers in Microbiology,30
+Elsevier ,Journal of Theoretical Biology,30
+Elsevier ,Biophysical Journal,29
+The Royal Society,Proceedings of The Royal Society B Biological Sciences,28
+Wiley (Blackwell Publishing),Molecular Ecology Resources,27
+Springer Nature,Nature Neuroscience,27
+Wiley (Blackwell Publishing),New Phytologist,25
+MDPI AG,Metals,24
+MDPI AG,Polymers,24
+Microbiology Society,Microbial Genomics,24
+Wiley (John Wiley & Sons),Ecology and Evolution,24
+Society for Neuroscience,eNeuro,23
+JMIR Publications Inc.,JMIR Public Health and Surveillance,23
+Springer (Biomed Central Ltd.),Genome Medicine,22
+American Physiological Society,Journal of Neurophysiology,22
+Oxford University Press,Cerebral Cortex,22
+Springer Nature,The ISME Journal,21
+Oxford University Press,Human Molecular Genetics,21
+MDPI AG,Galaxies,20
+MDPI AG,Crystals,20
+Springer (Biomed Central Ltd.),BMC Evolutionary Biology,20
+American Society for Biochemistry and Molecular Biology,Journal of Biological Chemistry,20
+Elsevier ,Theoretical Population Biology,20
+JMIR Publications Inc.,JMIR Mental Health,19
+The Royal Society,Royal Society Open Science,19
+EMBO,Molecular Systems Biology,19
+The University of Chicago Press,The American Naturalist,19
+American Association for the Advancement of Science (AAAS),Science Advances,18
+MDPI AG,Symmetry,18
+"""Impact Journals, LLC """,Oncotarget,18
+Cold Spring Harbor Laboratory,RNA,18
+Wiley (Blackwell Publishing),Journal of Evolutionary Biology,18
+Springer Nature,Nature Ecology & Evolution,17
+MDPI AG,Atmosphere,17
+MDPI AG,Forests,17
+The Rockefeller University Press,The Journal of Cell Biology,17
+Wiley (John Wiley & Sons),Human Brain Mapping,17
+American Society for Microbiology,mBio,16
+Springer Nature,Scientific Data,16
+MDPI AG,Viruses,16
+Springer (Biomed Central Ltd.),BMC Systems Biology,16
+EMBO,The EMBO Journal,16
+MDPI AG,Micromachines,15
+Springer (Biomed Central Ltd.),BMC Biology,15
+Frontiers Media SA,Frontiers in Neuroscience,15
+The Royal Society,Philosophical Transactions of the Royal Society B Biological Sciences,15
+Wiley (Blackwell Publishing),Ecology Letters,15
+Elsevier ,Neuron,15
+Elsevier ,Developmental Biology,15
+MDPI AG,Nanomaterials,14
+MDPI AG,Genes,14
+Oxford University Press,Virus Evolution,14
+Springer (Biomed Central Ltd.),Microbiome,14
+The Company of Biologists,Biology Open,14
+The Company of Biologists,Development,14
+Wiley (Blackwell Publishing),Environmental Microbiology,14
+Springer Nature,Molecular Psychiatry,14
+JMIR Publications Inc.,JMIR Medical Informatics,13
+MDPI AG,ISPRS International Journal of Geo-Information,13
+MDPI AG,Geosciences,13
+Frontiers Media SA,Frontiers in Genetics,13
+IOP Publishing,Physical Biology,13
+MDPI AG,Coatings,12
+Springer Nature,Nature Biotechnology,12
+American Society of Plant Biologists,The Plant Cell,12
+Elsevier ,Cell Systems,11
+JMIR Publications Inc.,JMIR Human Factors,11
+MDPI AG,Mathematics,11
+MDPI AG,Technologies,11
+Springer (Biomed Central Ltd.),Epigenetics & Chromatin,11
+Springer (Biomed Central Ltd.),Biology Direct,11
+Elsevier ,Current Biology,11
+Wiley (John Wiley & Sons),Proteins Structure Function and Bioinformatics,11
+JMIR Publications Inc.,JMIR Medical Education,10
+MDPI AG,Mathematical and Computational Applications,10
+MDPI AG,Social Sciences,10
+MDPI AG,Minerals,10
+MDPI AG,Catalysts,10
+Frontiers Media SA,Frontiers in Plant Science,10
+MIT Press,Journal of Cognitive Neuroscience,10
+Oxford University Press,Briefings in Bioinformatics,10
+Wiley (Blackwell Publishing),Molecular Plant Pathology,10
+American Physical Society,Physical Review Letters,10
+Wiley (Blackwell Publishing),The Plant Journal,10
+Elsevier ,Current Opinion in Genetics & Development,10
+Wiley (Blackwell Publishing),European Journal of Neuroscience,10
+Elsevier ,Journal of Neuroscience Methods,10
+American Society of Plant Biologists,PLANT PHYSIOLOGY,10
+American Society for Microbiology,mSystems,9
+MDPI AG,Toxins,9
+Frontiers Media SA,Frontiers in Computational Neuroscience,9
+Frontiers Media SA,Frontiers in Human Neuroscience,9
+American Chemical Society,The Journal of Physical Chemistry B,9
+Cold Spring Harbor Laboratory,Genes & Development,9
+Wiley (John Wiley & Sons),Genetic Epidemiology,9
+MDPI AG,Data,8
+MDPI AG,Risks,8
+MDPI AG,Aerospace,8
+Springer Nature,Translational Psychiatry,8
+Public Library of Science,PLoS Currents,8
+MDPI AG,Systems,8
+The Royal Society,Open Biology,8
+Frontiers Media SA,Frontiers in Neuroinformatics,8
+Elsevier ,Infection Genetics and Evolution,8
+Oxford University Press,The Journal of Infectious Diseases,8
+American Society for Biochemistry and Molecular Biology,Molecular & Cellular Proteomics,8
+Springer Nature,European Journal of Human Genetics,8
+EMBO,EMBO Reports,8
+Springer (Biomed Central Ltd.),Genome Biology,8
+Springer-Verlag,Journal of Mathematical Biology,8
+Elsevier ,Neuropsychologia,8
+Elsevier ,Biochemical and Biophysical Research Communications,8
+JMIR Publications Inc.,JMIR Cardio,7
+JMIR Publications Inc.,JMIR Rehabilitation and Assistive Technologies,7
+MDPI AG,Journal of Imaging,7
+MDPI AG,Magnetochemistry,7
+MDPI AG,Fluids,7
+MDPI AG,Processes,7
+MDPI AG,Universe,7
+MDPI AG,Cancers,7
+Wiley (Blackwell Publishing),Methods in Ecology and Evolution,7
+Oxford University Press,Database,7
+Springer (Biomed Central Ltd.),BMC Medical Genomics,7
+Wiley (Blackwell Publishing),Evolutionary Applications,7
+The Royal Society,Biology Letters,7
+Frontiers Media SA,Frontiers in Cellular Neuroscience,7
+MDPI AG,Marine Drugs,7
+Springer-Verlag,Journal of Computer-Aided Molecular Design,7
+Mary Ann Liebert,Journal of Computational Biology,7
+Landes Bioscience,Cell Cycle,7
+American Association for Cancer Research,Cancer Research,7
+American Chemical Society,Journal of Proteome Research,7
+Springer Nature,Genetics in Medicine,7
+Springer-Verlag,Bulletin of Mathematical Biology,7
+The Company of Biologists,Journal of Cell Science,7
+Portland Press,Biochemical Journal,7
+Oxford University Press,International Journal of Epidemiology,7
+Oxford University Press,Journal of Experimental Botany,7
+Elsevier ,Molecular Phylogenetics and Evolution,7
+Elsevier ,Methods,7
+Wiley (Blackwell Publishing),Ecography,7
+Scientific Societies,Molecular Plant-Microbe Interactions,7
+"""F1000 Research, Ltd.""",Wellcome Open Research,6
+Springer Nature,Nature Human Behaviour,6
+American Society for Microbiology,mSphere,6
+American Society for Clinical Investigation,JCI Insight,6
+JMIR Publications Inc.,JMIR Cancer,6
+MDPI AG,Batteries,6
+MDPI AG,Foods,6
+MDPI AG,Biomedicines,6
+MDPI AG,Economies,6
+MDPI AG,International Journal of Financial Studies,6
+Mary Ann Liebert,Brain Connectivity,6
+JMIR Publications Inc.,Journal of Participatory Medicine,6
+MDPI AG,Computation,6
+MDPI AG,Environments,6
+MDPI AG,Pathogens,6
+MDPI AG,Agronomy,6
+Springer Nature,npj Genomic Medicine,6
+Springer (Biomed Central Ltd.),Biotechnology for Biofuels,6
+Springer Nature,Nature Protocols,6
+Wiley (John Wiley & Sons),PROTEOMICS,6
+Springer-Verlag,Journal of Computational Neuroscience,6
+The American Association of Immunologists,The Journal of Immunology,6
+The Company of Biologists,Journal of Experimental Biology,6
+MDPI AG,Diversity,6
+Springer (Biomed Central Ltd.),Genetics Selection Evolution,6
+American Society for Microbiology,Applied and Environmental Microbiology,6
+Elsevier ,Molecular Cell,6
+Elsevier ,Trends in Genetics,6
+Wiley (Blackwell Publishing),Oikos,6
+Wiley (Blackwell Publishing),Journal of Animal Ecology,6
+Springer Nature,Heredity,6
+Wiley (John Wiley & Sons),Ecology,6
+MIT Press,Network Neuroscience,5
+MDPI AG,Condensed Matter,5
+MDPI AG,International Journal of Neonatal Screening,5
+MDPI AG,Dentistry Journal,5
+MDPI AG,Climate,5
+MDPI AG,Plants,5
+MDPI AG,Biomolecules,5
+Elsevier ,Stem Cell Reports,5
+The Optical Society,Biomedical Optics Express,5
+Wiley (John Wiley & Sons),Ecosphere,5
+MDPI AG,Biology,5
+MDPI AG,Antibiotics,5
+MDPI AG,Information,5
+MDPI AG,Journal of Marine Science and Engineering,5
+MDPI AG,Agriculture,5
+MDPI AG,Journal of Clinical Medicine,5
+MDPI AG,Brain Sciences,5
+MDPI AG,Behavioral Sciences,5
+MDPI AG,Animals,5
+MDPI AG,Buildings,5
+MDPI AG,Life,5
+Springer Nature,npj Systems Biology and Applications,5
+MDPI AG,Pharmaceutics,5
+MDPI AG,Algorithms,5
+American Association for the Advancement of Science (AAAS),Science Translational Medicine,5
+American Society for Cell Biology,Molecular Biology of the Cell,5
+JMIR Publications Inc.,Interactive Journal of Medical Research,5
+The Royal Society of Chemistry,Soft Matter,5
+Frontiers Media SA,Frontiers in Psychology,5
+Frontiers Media SA,Frontiers in Systems Neuroscience,5
+Wiley (John Wiley & Sons),Journal of Experimental Zoology Part B Molecular and Developmental Evolution,5
+American Chemical Society,Journal of Chemical Theory and Computation,5
+Springer Nature,Nature Structural & Molecular Biology,5
+Association for Research in Vision and Ophthalmology (ARVO),Journal of Vision,5
+MIT Press,Neural Computation,5
+American Chemical Society,Biochemistry,5
+Oxford University Press,Biostatistics,5
+Springer-Verlag,Immunogenetics,5
+Springer-Verlag,Human Genetics,5
+Wiley (Blackwell Publishing),Genes to Cells,5
+Wiley (John Wiley & Sons),Hippocampus,5
+Elsevier ,Journal of Structural Biology,5
+Springer-Verlag,Journal of Genetics,5
+Wiley (Blackwell Publishing),Yeast,5
+Wiley (Blackwell Publishing),Plant Cell & Environment,5
+Wiley (Blackwell Publishing),Psychophysiology,5
+Scientific Societies,Phytopathology,5
+Elsevier ,Mathematical Biosciences,5
+Elsevier ,Journal of Molecular Biology,5
+Elsevier ,Cortex,5
+Elsevier ,Heliyon,4
+JMIR Publications Inc.,JMIR Diabetes,4
+MDPI AG,Recycling,4
+MDPI AG,Beverages,4
+MDPI AG,Medicines,4
+MDPI AG,Separations,4
+Frontiers Media SA,Frontiers in Bioengineering and Biotechnology,4
+JMIR Publications Inc.,JMIR Serious Games,4
+MDPI AG,Informatics,4
+MDPI AG,Healthcare,4
+Elsevier ,NeuroImage Clinical,4
+MDPI AG,Journal of Functional Biomaterials,4
+MDPI AG,Religions,4
+MDPI AG,Antioxidants,4
+MDPI AG,Sports,4
+MDPI AG,Computers,4
+International Union of Crystallography,Acta Crystallographica Section D Structural Biology,4
+Springer Nature,Nature Microbiology,4
+Springer Nature,Nature Plants,4
+Wiley (John Wiley & Sons),Clinical & Translational Immunology,4
+Future Science,BioTechniques,4
+Institute of Mathematical Statistics,The Annals of Applied Statistics,4
+Springer-Verlag,Clinical Epigenetics,4
+Springer-Verlag,Brain Structure and Function,4
+Cambridge University Press,Twin Research and Human Genetics,4
+Wiley (Blackwell Publishing),Environmental Microbiology Reports,4
+The Royal Society of Chemistry,Integrative Biology,4
+Springer (Biomed Central Ltd.),Plant Methods,4
+Springer (Biomed Central Ltd.),BMC Medicine,4
+Springer Nature,Neuropsychopharmacology,4
+Elsevier ,Molecular Plant,4
+Frontiers Media SA,Frontiers in Immunology,4
+Frontiers Media SA,Frontiers in Behavioral Neuroscience,4
+Springer-Verlag,Brain Topography,4
+American Chemical Society,Journal of Chemical Information and Modeling,4
+Public Library of Science,PLoS Medicine,4
+American Chemical Society,Analytical Chemistry,4
+Springer (Biomed Central Ltd.),Malaria Journal,4
+Cambridge University Press,Psychological Medicine,4
+Wiley (Blackwell Publishing),Global Ecology and Biogeography,4
+Oxford University Press,Behavioral Ecology,4
+Microbiology Society,Microbiology,4
+Springer-Verlag,Journal of Molecular Evolution,4
+MDPI AG,Molbank,4
+American Society for Microbiology,Journal of Virology,4
+American Institute of Physics,The Journal of Chemical Physics,4
+Mary Ann Liebert,Journal of Computational Biology,4
+Wiley (John Wiley & Sons),Human Mutation,4
+Wiley (John Wiley & Sons),Protein Science,4
+Springer Nature,Oncogene,4
+Elsevier ,Genomics,4
+Elsevier ,Neuroscience Letters,4
+Elsevier ,Human Immunology,4
+Elsevier ,Neuroscience & Biobehavioral Reviews,4
+Wiley (John Wiley & Sons),FEBS Letters,4
+Wiley (John Wiley & Sons),American Journal of Physical Anthropology,4
+JMIR Publications Inc.,JMIR Formative Research,3
+Wiley (John Wiley & Sons),Plant Direct,3
+MDPI AG,Designs,3
+MDPI AG,Philosophies,3
+Elsevier ,EBioMedicine,3
+SPIE - International Society for Optical Engineering,Neurophotonics,3
+MDPI AG,Fermentation,3
+MDPI AG,Journal of Fungi,3
+MDPI AG,Veterinary Sciences,3
+MDPI AG,Bioengineering,3
+MDPI AG,Hydrology,3
+MDPI AG,Publications,3
+MDPI AG,Inorganics,3
+MDPI AG,Education Sciences,3
+Springer Nature,Emerging Microbes & Infections,3
+MDPI AG,Scientia Pharmaceutica,3
+MDPI AG,Cosmetics,3
+MDPI AG,Fibers,3
+MDPI AG,Biosensors,3
+MDPI AG,Challenges,3
+MDPI AG,Membranes,3
+MDPI AG,Vaccines,3
+MDPI AG,Arts,3
+MDPI AG,Societies,3
+MDPI AG,Insects,3
+MDPI AG,Lubricants,3
+MDPI AG,Machines,3
+MDPI AG,Cells,3
+Springer (Biomed Central Ltd.),Research Integrity and Peer Review,3
+"""Future Science, LTD""",Future Science OA,3
+Springer (Biomed Central Ltd.),EvoDevo,3
+The Royal Society of Chemistry,Chemical Science,3
+Springer (Biomed Central Ltd.),Journal of Biomedical Semantics,3
+Springer (Biomed Central Ltd.),Molecular Autism,3
+MDPI AG,Future Internet,3
+American Chemical Society,ACS Chemical Neuroscience,3
+"""Impact Journals, LLC """,Aging,3
+The Plant Genome,The Plant Genome,3
+MyJoVE Corporation,Journal of Visualized Experiments,3
+Elsevier ,Brain Stimulation,3
+MDPI AG,Journal of Risk and Financial Management,3
+Springer-Verlag,Theoretical Ecology,3
+Elsevier ,Forensic Science International Genetics,3
+Springer (Biomed Central Ltd.),Mobile DNA,3
+World Scientific ,Journal of Bioinformatics and Computational Biology,3
+Springer (Biomed Central Ltd.),BMC Research Notes,3
+Elsevier ,Epidemics,3
+The Company of Biologists,Disease Models & Mechanisms,3
+Springer (Biomed Central Ltd.),Neural Development,3
+Oxford University Press,Social Cognitive and Affective Neuroscience,3
+Hindawi Publishing Corporation (Sage-Hindawi Access to Research),Stem Cells International,3
+Frontiers Media SA,Frontiers in Physiology,3
+Frontiers Media SA,Frontiers in Neural Circuits,3
+Wiley (Blackwell Publishing),Genes Brain & Behavior,3
+Oxford University Press,FEMS Microbiology Letters,3
+Springer-Verlag,Antonie van Leeuwenhoek,3
+Institute of Electrical and Electronics Engineers,IEEE Transactions on Biomedical Engineering,3
+Landes Bioscience,RNA Biology,3
+American Chemical Society,ACS Chemical Biology,3
+Springer Nature,Nature Chemical Biology,3
+American Physical Society,Physical Review E,3
+Institute of Electrical and Electronics Engineers,IEEE/ACM Transactions on Computational Biology and Bioinformatics,3
+Oxford University Press,Clinical Infectious Diseases,3
+Wiley (John Wiley & Sons),American Journal of Botany,3
+Elsevier ,Developmental Cell,3
+American Association for Clinical Chemistry,Clinical Chemistry,3
+Springer Nature,Nature Cell Biology,3
+The Royal Society of Chemistry,Lab on a Chip,3
+Oxford University Press,Plant and Cell Physiology,3
+Springer (Biomed Central Ltd.),BMC Plant Biology,3
+Springer (Biomed Central Ltd.),BMC Microbiology,3
+Springer (Biomed Central Ltd.),BMC Genetics,3
+Springer Nature,Nature Reviews Genetics,3
+Oxford University Press,Journal of Antimicrobial Chemotherapy,3
+Springer-Verlag,Oecologia,3
+Wiley (Blackwell Publishing),Traffic,3
+Elsevier ,Current Opinion in Microbiology,3
+Wiley (Blackwell Publishing),Global Change Biology,3
+"""Libertas Academica, Ltd.""",Evolutionary Bioinformatics,3
+American Society for Microbiology,Antimicrobial Agents and Chemotherapy,3
+Oxford University Press,Toxicological Sciences,3
+The Optical Society,Optics Express,3
+Wiley (John Wiley & Sons),Ecological Applications,3
+Elsevier ,Current Opinion in Neurobiology,3
+Springer-Verlag,Molecular Neurobiology,3
+Elsevier ,Gene,3
+Elsevier ,Biochimica et Biophysica Acta (BBA) - General Subjects,3
+UPV/EHU Press,The International Journal of Developmental Biology,3
+Elsevier ,Cell,3
+Elsevier ,Journal of Insect Physiology,3
+Oxford University Press,Journal of Heredity,3
+Wiley (John Wiley & Sons),The Journal of Comparative Neurology,3
+Wiley (John Wiley & Sons),Biotechnology and Bioengineering,3
+Elsevier ,Biological Psychiatry,3
+Elsevier ,Biochimica et Biophysica Acta (BBA) - Biomembranes,3
+MDPI AG,Urban Science,2
+MDPI AG,Infrastructures,2
+MDPI AG,Inventions,2
+Open Access Text,Biomedical Genetics and Genomics,2
+Springer Nature,npj Microgravity,2
+Pensoft Publishers,Research Ideas and Outcomes,2
+Institute of Electrical and Electronics Engineers,IEEE Life Sciences Letters,2
+OMICS Publishing Group,Journal of Marine Biology & Oceanography,2
+Hindawi Limited,BioMed Research International,2
+MDPI AG,Biomimetics,2
+MDPI AG,C – Journal of Carbon Research,2
+MDPI AG,ChemEngineering,2
+MDPI AG,Toxics,2
+MDPI AG,Photonics,2
+Frontiers Media SA,Frontiers in Cellular and Infection Microbiology,2
+Frontiers Media SA,Frontiers in Oncology,2
+MDPI AG,Children,2
+MDPI AG,Chemosensors,2
+MDPI AG,Proteomes,2
+MDPI AG,Econometrics,2
+MDPI AG,Atoms,2
+MDPI AG,Metabolites,2
+Walter de Gruyter GmbH,Statistical Applications in Genetics and Molecular Biology,2
+Landes Bioscience,Translation,2
+Wiley (John Wiley & Sons),CPT Pharmacometrics & Systems Pharmacology,2
+American Physical Society,Physical Review X,2
+Hindawi Limited,Journal of Pathogens,2
+MDPI AG,Diseases,2
+MDPI AG,Electronics,2
+MDPI AG,Resources,2
+MDPI AG,Journal of Intelligence,2
+MDPI AG,Administrative Sciences,2
+MDPI AG,Medical Sciences,2
+MDPI AG,Laws,2
+MDPI AG,Epigenomes,2
+MDPI AG,Diagnostics,2
+MDPI AG,Axioms,2
+MDPI AG,Games,2
+Wiley (Physiological Reports),Physiological Reports,2
+Oxford University Press,Evolution Medicine and Public Health,2
+BMJ,BMJ Open,2
+Oxford University Press,Briefings in Functional Genomics,2
+Springer (Biomed Central Ltd.),Investigative Genetics,2
+The Royal Society of Chemistry,MedChemComm,2
+American Psychological Association,Journal of Comparative Psychology,2
+Annual Reviews,Annual Review of Biophysics,2
+Springer-Verlag,Evolutionary Biology,2
+Elsevier ,Developmental Cognitive Neuroscience,2
+Elsevier ,Fungal Biology,2
+IOS Press,Journal of Alzheimer s Disease,2
+Oxford University Press,The Journals of Gerontology Series A,2
+Springer (Biomed Central Ltd.),Journal of Cheminformatics,2
+Springer (Biomed Central Ltd.),Gut Pathogens,2
+Springer (Biomed Central Ltd.),Parasites & Vectors,2
+Oxford University Press,DNA Research,2
+Springer Nature,Nature Chemistry,2
+Springer Nature,Cell Research,2
+Springer (Biomed Central Ltd.),Algorithms for Molecular Biology,2
+Springer Nature,Nature Nanotechnology,2
+"""UKOLN, University of Bath""",International Journal of Digital Curation,2
+Springer Nature,Nature Physics,2
+Springer (Biomed Central Ltd.),Frontiers in Zoology,2
+The Royal Society of Chemistry,Molecular BioSystems,2
+IOP Publishing,Journal of Neural Engineering,2
+Springer (Biomed Central Ltd.),EURASIP Journal on Bioinformatics and Systems Biology,2
+Springer-Verlag,Protein & Cell,2
+Frontiers Media SA,Frontiers in Aging Neuroscience,2
+Frontiers Media SA,Frontiers in Neuroanatomy,2
+Frontiers Media SA,Frontiers in Molecular Neuroscience,2
+Springer-Verlag,Environmental Science and Pollution Research,2
+Springer-Verlag,Journal of Molecular Modeling,2
+Wiley (John Wiley & Sons),Molecular Oncology,2
+Springer-Verlag,Neurochemical Research,2
+Springer-Verlag,Hydrobiologia,2
+Springer-Verlag,Metabolomics,2
+Springer-Verlag,Behavior Genetics,2
+Springer-Verlag,Biological Invasions,2
+Elsevier ,Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics,2
+Oxford University Press,FEMS Yeast Research,2
+European Centre for Disease Control and Prevention (ECDC),Eurosurveillance,2
+SAGE Publications,Journal of Cerebral Blood Flow & Metabolism,2
+Oxford University Press,Integrative and Comparative Biology,2
+Association for Research in Vision and Ophthalmology (ARVO),Investigative Opthalmology & Visual Science,2
+Elsevier ,Alzheimer s & Dementia,2
+Wiley (John Wiley & Sons),American Journal of Medical Genetics Part A,2
+Oxford University Press,SLEEP,2
+The Rockefeller University Press,Journal of Experimental Medicine,2
+Informa UK (Taylor & Francis),Journal of Biomolecular Structure and Dynamics,2
+Springer - Psychonomic Society,Cognitive Affective & Behavioral Neuroscience,2
+American Chemical Society,Nano Letters,2
+Federation of American Society for Experimental Biology,The FASEB Journal,2
+Oxford University Press,Journal of the American Medical Informatics Association,2
+Informa UK (Taylor & Francis),Drug and Chemical Toxicology,2
+Oxford University Press,European Heart Journal,2
+American Society for Pharmacology & Experimental Therapeutics,Journal of Pharmacology and Experimental Therapeutics,2
+SAGE Publications,Statistical Methods in Medical Research,2
+Wiley (Blackwell Publishing),Aging Cell,2
+Springer Nature,The Pharmacogenomics Journal,2
+Springer (Biomed Central Ltd.),BMC Biotechnology,2
+Wiley (Blackwell Publishing),Geobiology,2
+Springer (Biomed Central Ltd.),BMC Cancer,2
+Springer (Biomed Central Ltd.),BMC Infectious Diseases,2
+Springer (Biomed Central Ltd.),BMC Geriatrics,2
+Springer (Biomed Central Ltd.),BMC Neuroscience,2
+Springer (Biomed Central Ltd.),BMC Molecular Biology,2
+Springer (Biomed Central Ltd.),BMC Developmental Biology,2
+Portland Press,Biochemical Society Transactions,2
+Oxford University Press,Nicotine & Tobacco Research,2
+Cambridge University Press,Epidemiology and Infection,2
+Springer Nature,Genes and Immunity,2
+Microbiology Society,Journal of General Virology,2
+Wiley (Blackwell Publishing),Biological Reviews,2
+The Royal Society of Chemistry,Physical Chemistry Chemical Physics,2
+Wiley (Blackwell Publishing),Cellular Microbiology,2
+Springer-Verlag,Theoretical and Applied Genetics,2
+Springer-Verlag,Polar Biology,2
+Springer-Verlag,Microbial Ecology,2
+Springer-Verlag,Current Genetics,2
+Springer-Verlag,Biological Cybernetics,2
+Springer-Verlag,Behavioral Ecology and Sociobiology,2
+International Union of Crystallography,Acta Crystallographica Section D Biological Crystallography,2
+Elsevier ,Clinical Neurophysiology,2
+Elsevier ,Trends in Cognitive Sciences,2
+"""Libertas Academica, Ltd.""",Cancer Informatics,2
+American Society for Microbiology,Journal of Clinical Microbiology,2
+Elsevier ,Metabolic Engineering,2
+Elsevier ,Evolution and Human Behavior,2
+Elsevier ,Neurobiology of Learning and Memory,2
+Springer-Verlag,Journal of Biosciences,2
+Wiley (Blackwell Publishing),Molecular Microbiology,2
+Elsevier ,Cellular Signalling,2
+Wiley (Blackwell Publishing),Conservation Biology,2
+Wiley (John Wiley & Sons),Journal of Morphology,2
+Elsevier ,Psychoneuroendocrinology,2
+Elsevier ,Biosystems,2
+Elsevier ,Biophysical Chemistry,2
+Elsevier ,Brain and Cognition,2
+Wiley (Blackwell Publishing),Functional Ecology,2
+Wiley (Blackwell Publishing),Animal Genetics,2
+Wiley (John Wiley & Sons),Prenatal Diagnosis,2
+Elsevier ,Journal of Biotechnology,2
+Wiley (Blackwell Publishing),Computer Graphics Forum,2
+Elsevier ,Behavioural Brain Research,2
+Elsevier ,Pharmacology Biochemistry and Behavior,2
+Elsevier ,The Science of The Total Environment,2
+Elsevier ,Vision Research,2
+Elsevier ,Steroids,2
+Wiley (Blackwell Publishing),Journal of Microscopy,2
+Wiley (Blackwell Publishing),Journal of Applied Ecology,2
+Elsevier ,International Journal for Parasitology,2
+Elsevier ,Experimental Cell Research,2
+Elsevier ,American Journal of Obstetrics and Gynecology,2
+Oxford University Press,American Journal of Epidemiology,2
+MDPI AG,Vibration,1
+MDPI AG,High-Throughput,1
+JMIR Publications Inc.,JMIR Biomedical Engineering,1
+IOS Press,Journal of Alzheimer s Disease Reports,1
+Springer-Verlag,Journal of Paleolithic Archaeology,1
+"""Centre of Sociological Research, NGO""",Journal of Sustainable Development of Transport and Logistics,1
+MDPI AG,Journal of Composites Science,1
+MDPI AG,Big Data and Cognitive Computing,1
+MDPI AG,International Journal of Turbomachinery Propulsion and Power,1
+The Open Journal,The Journal of Open Source Software,1
+American Society of Clinical Oncology,JCO Clinical Cancer Informatics,1
+SAGE Publications,SLAS DISCOVERY Advancing Life Sciences,1
+Wiley (John Wiley & Sons),Birth Defects Research,1
+American Association for the Advancement of Science (AAAS),Science Robotics,1
+American Chemical Society,ACS Omega,1
+Elsevier ,HardwareX,1
+Journal of Applied Pharmacuetical Science,Journal of Applied Biology & Biotechnology,1
+Elsevier ,Gene Reports,1
+Elsevier ,Biological Psychiatry Cognitive Neuroscience and Neuroimaging,1
+MDPI AG,Multimodal Technologies and Interaction,1
+MDPI AG,Vision,1
+MDPI AG,Journal of Functional Morphology and Kinesiology,1
+MDPI AG,Instruments,1
+MDPI AG,Fishes,1
+Springer Nature,Communications Biology,1
+Informa UK (Taylor & Francis),Mitochondrial DNA Part B,1
+Ovid Technologies (Wolters Kluwer) - American Academy of Neurology,Neurology Genetics,1
+American Chemical Society,ACS Central Science,1
+Springer Nature,npj Breast Cancer,1
+Cold Spring Harbor Laboratory,Molecular Case Studies,1
+Springer (Biomed Central Ltd.),Cancer Convergence,1
+Kernel Press UG,Genomics and Computational Biology,1
+APD SKEG,Scientific Phone Apps and Mobile Devices,1
+Elsevier ,Alzheimer s & Dementia Diagnosis Assessment & Disease Monitoring,1
+Informa UK (Taylor & Francis),Journal of Responsible Innovation,1
+Wiley (John Wiley & Sons),Annals of Clinical and Translational Neurology,1
+American Association for Cancer Research,Cancer Immunology Research,1
+Wiley (John Wiley & Sons),Arthritis & Rheumatology,1
+International Journal Of Advanced Research,International Journal of Advanced Research,1
+Excellent Publishers,International Journal of Current Microbiology and Applied Sciences,1
+MDPI AG,Safety,1
+MDPI AG,Non-Coding RNA,1
+MDPI AG,Gels,1
+MDPI AG,Geriatrics,1
+MDPI AG,Logistics,1
+Frontiers Media SA,Frontiers in Molecular Biosciences,1
+Frontiers Media SA,Frontiers in Marine Science,1
+Frontiers Media SA,Frontiers in Chemistry,1
+Frontiers Media SA,Frontiers in Public Health,1
+Informa UK (Taylor & Francis),African Zoology,1
+MDPI AG,Journal of Developmental Biology,1
+MDPI AG,Robotics,1
+Elsevier ,Current Opinion in Insect Science,1
+Elsevier ,Meta Gene,1
+Elsevier ,Genomics Data,1
+Elsevier ,Molecular Metabolism,1
+Wiley (John Wiley & Sons),FEBS Open Bio,1
+Elsevier ,International Journal for Parasitology Drugs and Drug Resistance,1
+Ivyspring International Publisher,Nanotheranostics,1
+Springer-Verlag,Brain Informatics,1
+Springer-Verlag,Culture and Brain,1
+Springer (Biomed Central Ltd.),Ecological Processes,1
+Springer-Verlag,Arabian Journal for Science and Engineering,1
+Wiley (John Wiley & Sons),Journal of Cachexia Sarcopenia and Muscle,1
+Beilstein-Institut,Beilstein Journal of Nanotechnology,1
+Biophysical Society of Japan,Biophysics and Physicobiology,1
+Wiley (John Wiley & Sons),Applications in Plant Sciences,1
+Springer-Verlag,Current Genetic Medicine Reports,1
+OMICS Publishing Group,Autism - Open Access,1
+American Society for Microbiology,Microbiology Spectrum,1
+American Scientific Publishers,Advanced Science Engineering and Medicine,1
+Wiley (John Wiley & Sons),Brain and Behavior,1
+American Association for Cancer Research,Cancer Discovery,1
+Landes Bioscience,Cellular Logistics,1
+SAGE Publications,SAGE Open,1
+Springer Nature,Oncogenesis,1
+Springer Nature,Nature Biomedical Engineering,1
+The Optical Society,Applied Optics,1
+Springer-Verlag,Dynamic Games and Applications,1
+Landes Bioscience,Virulence,1
+"""Scientific Research Publishing, Inc.""",Natural Science,1
+Informa UK (Taylor & Francis),Mycology&#58 An International Journal on Fungal Biology,1
+Strategic Public Management Journal,Strategic Public Management Journal,1
+New Trends in Mathematical Science,New Trends in Mathematical Science,1
+Springer (Biomed Central Ltd.),Annals of Intensive Care,1
+Hindawi Limited,Neural Plasticity,1
+Hindawi Limited,Journal of Nucleic Acids,1
+MDPI AG,Journal of Low Power Electronics and Applications,1
+MDPI AG,Microarrays,1
+MDPI AG,Microorganisms,1
+MDPI AG,Actuators,1
+MDPI AG,Humanities,1
+MDPI AG,Journal of Personalized Medicine,1
+MDPI AG,Land,1
+Springer Nature,Signal Transduction and Targeted Therapy,1
+Oxford University Press,Environmental Epigenetics,1
+IOP Publishing,Biomedical Physics & Engineering Express,1
+Wiley (John Wiley & Sons),Evolution Letters,1
+Springer (Biomed Central Ltd.),Contraception and Reproductive Medicine,1
+Springer Nature,npj Biofilms and Microbiomes,1
+Springer (Biomed Central Ltd.),Avian Research,1
+Springer Nature,Horticulture Research,1
+BMJ,BMJ Open Diabetes Research & Care,1
+Springer (Biomed Central Ltd.),Acta Neuropathologica Communications,1
+Springer (Biomed Central Ltd.),Movement Ecology,1
+Springer (Biomed Central Ltd.),Journal for ImmunoTherapy of Cancer,1
+Springer (Biomed Central Ltd.),BMC Psychology,1
+Springer (Biomed Central Ltd.),BMC Pharmacology and Toxicology,1
+Springer (Biomed Central Ltd.),Antimicrobial Resistance and Infection Control,1
+Springer (Biomed Central Ltd.),BMC Biophysics,1
+Wiley (John Wiley & Sons),MicrobiologyOpen,1
+Wiley (John Wiley & Sons),Cancer Medicine,1
+The Royal Society of Chemistry,Toxicology Research,1
+Springer (Biomed Central Ltd.),Skeletal Muscle,1
+SAGE Publications,i-Perception,1
+Springer Nature,Cell Death and Disease,1
+The Royal Society of Chemistry,Nanoscale,1
+Hindawi Limited,Journal of Healthcare Engineering,1
+PAGEPress Publications,Microbiology Research,1
+Elsevier ,Computational and Structural Biotechnology Journal,1
+OMICS Publishing Group,Archives of Clinical Microbiology,1
+Landes Bioscience,Nucleus,1
+American Chemical Society,The Journal of Physical Chemistry Letters,1
+Baishideng Publishing Group Co (World Journal of Hepatology),World Journal of Hepatology,1
+SAGE Publications,Cartilage,1
+"""Impact Journals, LLC """,Genes & Cancer,1
+Mary Ann Liebert,Biopreservation and Biobanking,1
+The Endocrine Society,The Journal of Clinical Endocrinology & Metabolism,1
+The Endocrine Society,Endocrinology,1
+American Association for the Advancement of Science (AAAS),Science Signaling,1
+BioOne (National Shellfisheries Association),Journal of Shellfish Research,1
+Cold Spring Harbor Laboratory,Cold Spring Harbor Symposia on Quantitative Biology,1
+Springer - Psychonomic Society,Attention Perception & Psychophysics,1
+Cold Spring Harbor Laboratory,Cold Spring Harbor Perspectives in Biology,1
+Ovid Technologies Wolters Kluwer -American Heart Association,Circulation Cardiovascular Genetics,1
+Institute of Electrical and Electronics Engineers,IEEE Transactions on Biomedical Circuits and Systems,1
+American Association for Cancer Research,Cancer Prevention Research,1
+Informa UK (Taylor & Francis),Mitochondrial DNA,1
+The University of Chicago Press,Biological Bulletin,1
+Wiley (John Wiley & Sons),Autism Research,1
+American Psychological Association,Journal of Experimental Psychology Learning Memory and Cognition,1
+American Psychological Association,Behavioral Neuroscience,1
+BioOne (Cooper Ornithological Society),The Condor,1
+BioOne (American Association of Avian Pathologists),Avian Diseases,1
+BioOne (American Ornithologists Union),The Auk,1
+Elsevier ,Translational Oncology,1
+American Chemical Society,ACS Nano,1
+Springer Nature,Mucosal Immunology,1
+Wiley (John Wiley & Sons),The Anatomical Record,1
+American Society for Cell Biology,CBE—Life Sciences Education,1
+Elsevier ,Cell Host & Microbe,1
+Wiley (Blackwell Publishing),Obesity,1
+Elsevier ,Current Opinion in Virology,1
+Oxford University Press,Journal of Crohn s and Colitis,1
+Elsevier ,Asian Journal of Psychiatry,1
+Elsevier ,Biochimica et Biophysica Acta (BBA) - Gene Regulatory Mechanisms,1
+Springer-Verlag,Cognitive Neurodynamics,1
+Springer-Verlag,Science China Life Sciences,1
+Springer-Verlag,Journal of Community Genetics,1
+Wiley (John Wiley & Sons),Molecular Informatics,1
+Springer-Verlag,Biophysical Reviews,1
+Springer-Verlag,Statistics in Biosciences,1
+Wiley (Blackwell Publishing),Transboundary and Emerging Diseases,1
+Springer-Verlag,Chinese Science Bulletin,1
+Wiley (John Wiley & Sons),ChemMedChem,1
+Pensoft Publishers,Deutsche Entomologische Zeitschrift,1
+Ivyspring International Publisher,Theranostics,1
+Oxford University Press,Journal of Molecular Cell Biology,1
+Oxford University Press,Tree Physiology,1
+Springer (Biomed Central Ltd.),Stem Cell Research & Therapy,1
+Springer (Biomed Central Ltd.),Journal of Biological Engineering,1
+Informa UK (Taylor & Francis),Journal of Biological Dynamics,1
+Springer (Biomed Central Ltd.),Molecular Neurodegeneration,1
+Springer (Biomed Central Ltd.),Orphanet Journal of Rare Diseases,1
+IOP Publishing,Bioinspiration & Biomimetics,1
+University of Illinois Libraries,Journal of Biomedical Discovery and Collaboration,1
+Informa UK (Taylor & Francis),Social Neuroscience,1
+Springer (Biomed Central Ltd.),BMC Veterinary Research,1
+Oxford University Press,Acta Biochimica et Biophysica Sinica,1
+Springer (Biomed Central Ltd.),Virology Journal,1
+Elsevier ,Acta Biomaterialia,1
+IOP Publishing,Journal of Physics Conference Series,1
+Springer (Biomed Central Ltd.),Retrovirology,1
+Wiley (Blackwell Publishing),FEBS Journal,1
+Springer (Biomed Central Ltd.),Journal of Neuroinflammation,1
+Hindawi Limited,International Journal of Ecology,1
+Hindawi Limited,Advances in Pharmacological Sciences,1
+Genetics and Molecular Research,Genetics and Molecular Research,1
+Wiley (Blackwell Publishing),Insect Science,1
+Elsevier ,Genomics Proteomics & Bioinformatics,1
+Frontiers Media SA,Frontiers in Pharmacology,1
+Springer-Verlag,Journal of Pseudo-Differential Operators and Applications,1
+S. Karger AG,Molecular Syndromology,1
+Springer-Verlag,Analytical and Bioanalytical Chemistry,1
+Inter-Research Science Center,Marine Ecology Progress Series,1
+Springer-Verlag,PROTOPLASMA,1
+Springer-Verlag,Tree Genetics & Genomes,1
+Springer-Verlag,Microfluidics and Nanofluidics,1
+Springer-Verlag,European Journal of Forest Research,1
+Springer-Verlag,Theory in Biosciences,1
+Springer (Biomed Central Ltd.),Hereditas,1
+Springer-Verlag,Clinical and Experimental Medicine,1
+Springer-Verlag,Scientometrics,1
+Springer-Verlag,Revista de la Real Academia de Ciencias Exactas Físicas y Naturales Serie A Matemáticas,1
+Oxford University Press,FEMS Microbiology Ecology,1
+Springer-Verlag,International Journal of Primatology,1
+Springer-Verlag,Breast Cancer Research and Treatment,1
+Springer-Verlag,Journal of Bioenergetics and Biomembranes,1
+Springer-Verlag,Chromosome Research,1
+Springer-Verlag,Biogerontology,1
+Springer-Verlag,Photosynthesis Research,1
+Springer-Verlag,Plant Cell Tissue and Organ Culture (PCTOC),1
+Springer-Verlag,Molecular and Cellular Biochemistry,1
+Springer-Verlag,Journal of Autism and Developmental Disorders,1
+Springer-Verlag,Environmental Monitoring and Assessment,1
+Springer-Verlag,Journal of Abnormal Child Psychology,1
+Springer-Verlag,Journal of Chemical Ecology,1
+Springer-Verlag,Computational Geosciences,1
+Springer-Verlag,Origins of Life and Evolution of Biospheres,1
+Springer-Verlag,Molecular Breeding,1
+Springer-Verlag,Journal of Insect Conservation,1
+Springer-Verlag,Foundations of Physics,1
+Springer-Verlag,Numerical Algorithms,1
+Springer-Verlag,Acta Biotheoretica,1
+Oxford University Press,Annals of Oncology,1
+Elsevier ,Journal of Cystic Fibrosis,1
+Elsevier ,Mitochondrion,1
+Landes Bioscience,Epigenetics,1
+Springer-Verlag,Medical Oncology,1
+Institute of Electrical and Electronics Engineers,IEEE Transactions on NanoBioscience,1
+Institute of Electrical and Electronics Engineers,Proceedings of the IEEE,1
+American Association for Cancer Research,Clinical Cancer Research,1
+Elsevier ,Journal of Thoracic Oncology,1
+Landes Bioscience,Cancer Biology & Therapy,1
+Wiley (John Wiley & Sons),Cytometry Part A,1
+Wiley (John Wiley & Sons),American Journal of Medical Genetics Part B Neuropsychiatric Genetics,1
+SAGE Publications,Journal of Biological Rhythms,1
+SAGE Publications,Journal of Histochemistry & Cytochemistry,1
+BioOne (Coastal Education and Research Foundation),Journal of Coastal Research,1
+American Institute of Mathematical Sciences,Mathematical Biosciences and Engineering,1
+Elsevier ,Cell Metabolism,1
+Informa UK (Taylor & Francis),Critical Reviews in Plant Sciences,1
+Cold Spring Harbor Laboratory,Learning & Memory,1
+Wiley (John Wiley & Sons),Pediatric Blood & Cancer,1
+Annual Reviews,The Annual Review of Pharmacology and Toxicology,1
+Wiley (John Wiley & Sons),Frontiers in Ecology and the Environment,1
+Springer-Verlag,Neuroinformatics,1
+Society for Industrial and Applied Mathematics,SIAM Journal on Applied Dynamical Systems,1
+American Psychiatric Publishing,American Journal of Psychiatry,1
+American Thoracic Society,American Journal of Respiratory Cell and Molecular Biology,1
+American Thoracic Society,American Journal of Respiratory and Critical Care Medicine,1
+Springer-Verlag,Current Cardiology Reports,1
+American Scientific Publishers,Journal of Nanoscience and Nanotechnology,1
+New England Journal of Medicine,New England Journal of Medicine,1
+Springer Nature,British Journal of Cancer,1
+Elsevier ,Comparative Biochemistry and Physiology Part C Toxicology & Pharmacology,1
+Springer - Psychonomic Society,Psychonomic Bulletin & Review,1
+Oxford University Press,The Quarterly Journal of Economics,1
+American Physiological Society,Physiological Genomics,1
+Wiley (John Wiley & Sons),genesis,1
+Ovid Technologies (Wolters Kluwer) - American Academy of Neurology,Neurology,1
+Ovid Technologies (Wolters Kluwer)  - Lippincott Williams & Wilkins,JAIDS Journal of Acquired Immune Deficiency Syndromes,1
+Springer-Verlag,Journal of the Association for Research in Otolaryngology,1
+Oxford University Press,Journal of Animal Science,1
+Ovid Technologies Wolters Kluwer -American Heart Association,Circulation Research,1
+Ovid Technologies Wolters Kluwer -American Heart Association,Hypertension,1
+Oxford University Press,Neuro-Oncology,1
+American Physiological Society,AJP Cell Physiology,1
+American Physiological Society,AJP Renal Physiology,1
+Elsevier ,Clinical Immunology,1
+Informa UK (Taylor & Francis),Geomicrobiology Journal,1
+American Chemical Society,Langmuir,1
+American Chemical Society,Journal of Chemical & Engineering Data,1
+American Chemical Society,Journal of the American Chemical Society,1
+American Chemical Society,Journal of Medicinal Chemistry,1
+American Meteorological Society,Journal of Climate,1
+Wiley (Blackwell Publishing),Hemodialysis International,1
+Canadian Science Publishing,Canadian Journal of Chemistry,1
+Springer (Biomed Central Ltd.),Human Genomics,1
+Bioscientifica,Journal of Endocrinology,1
+Springer (Biomed Central Ltd.),Journal of Translational Medicine,1
+Springer (Biomed Central Ltd.),Cell Communication and Signaling,1
+IOP Publishing,Physical Biology,1
+Elsevier ,Ecological Complexity,1
+Elsevier ,Computational Biology and Chemistry,1
+Springer Nature,International Journal of Obesity,1
+Springer Nature,Nature Materials,1
+Springer (Biomed Central Ltd.),Environmental Health,1
+Cambridge University Press,Journal of Applied Probability,1
+Springer (Biomed Central Ltd.),Microbial Cell Factories,1
+Springer (Biomed Central Ltd.),BMC Ecology,1
+The Royal Society,Philosophical Transactions of The Royal Society A Mathematical Physical and Engineering Sciences,1
+Springer (Biomed Central Ltd.),BMC Musculoskeletal Disorders,1
+Springer (Biomed Central Ltd.),BMC Public Health,1
+Springer (Biomed Central Ltd.),BMC Medical Genetics,1
+Springer (Biomed Central Ltd.),BMC Cell Biology,1
+Springer Nature,Nature Reviews Molecular Cell Biology,1
+Springer Nature,Nature Reviews Neuroscience,1
+Portland Press,Clinical Science,1
+Elsevier ,Ecological Indicators,1
+Cambridge University Press,Quarterly Reviews of Biophysics,1
+Cambridge University Press,Parasitology,1
+Oxford University Press,The International Journal of Neuropsychopharmacology,1
+BMJ,Journal of Neurology Neurosurgery & Psychiatry,1
+BMJ,Archives of Disease in Childhood,1
+Oxford University Press,The Review of Economic Studies,1
+SAGE Publications,Psychological Science,1
+Wiley (Blackwell Publishing),Fish and Fisheries,1
+Informa UK (Taylor & Francis),Memory,1
+Oxford University Press,Medical Mycology,1
+Oxford University Press,Glycobiology,1
+Oxford University Press,MHR Basic science of reproductive medicine,1
+Oxford University Press,Human Reproduction,1
+Oxford University Press,JNCI Journal of the National Cancer Institute,1
+Springer-Verlag,Ecological Research,1
+Wiley (John Wiley & Sons),ChemBioChem,1
+Elsevier ,Basic and Applied Ecology,1
+Springer-Verlag,Gastric Cancer,1
+Springer Nature,Journal of Human Genetics,1
+Springer-Verlag,Ecosystems,1
+Wiley (John Wiley & Sons),Angewandte Chemie International Edition,1
+Springer-Verlag,Planta,1
+Springer-Verlag,Pediatric Nephrology,1
+Springer-Verlag,The Science of Nature,1
+Springer-Verlag,Experimental Brain Research,1
+Springer-Verlag,Chromosoma,1
+Springer-Verlag,Cancer Chemotherapy and Pharmacology,1
+Springer-Verlag,Archives of Toxicology,1
+Springer-Verlag,Applied Microbiology and Biotechnology,1
+Springer-Verlag,Acta Neuropathologica,1
+Springer-Verlag,Diabetologia,1
+Springer-Verlag,Development Genes and Evolution,1
+Springer-Verlag,Psychological Research,1
+MDPI AG,Pharmaceuticals,1
+S. Karger AG,Human Heredity,1
+S. Karger AG,Cellular Physiology and Biochemistry,1
+S. Karger AG,Brain Behavior and Evolution,1
+Springer-Verlag,Cellular and Molecular Life Sciences,1
+IOP Publishing,Physica Scripta,1
+Bentham Science,Current Protein and Peptide Science,1
+Elsevier ,International Journal of Medical Informatics,1
+Elsevier ,Parasitology International,1
+Elsevier ,Oral Oncology,1
+Wiley (Blackwell Publishing),Diversity and Distributions,1
+Elsevier ,Environmental Modelling & Software,1
+The Royal Society of Chemistry,The Analyst,1
+IOP Publishing,Journal of Physics D Applied Physics,1
+IOP Publishing,European Journal of Physics,1
+Wiley (Blackwell Publishing),Addiction Biology,1
+Wiley (Blackwell Publishing),European Journal of Soil Science,1
+Springer Nature,Cell Death and Differentiation,1
+Japan Society for Analytical Chemistry,Analytical Sciences,1
+Slovak University of Agriculture in Nitra,Journal of Microbiology Biotechnology and Food Sciences,1
+Ankara University,Communications Faculty Of Science University of Ankara Series A1Mathematics and Statistics,1
+IOP Publishing - Europhysics Letters,EPL (Europhysics Letters),1
+Elsevier ,Microbes and Infection,1
+London Mathematical Society,Proceedings of the London Mathematical Society,1
+Elsevier ,International Journal of Infectious Diseases,1
+American Society for Microbiology,Journal of Bacteriology,1
+American Society for Microbiology,Infection and Immunity,1
+Oxford University Press,ICES Journal of Marine Science,1
+Oxford University Press,Annals of Botany,1
+Elsevier ,Comparative Biochemistry and Physiology Part A Molecular & Integrative Physiology,1
+Elsevier ,Journal of Molecular Graphics and Modelling,1
+Wiley (John Wiley & Sons),Depression and Anxiety,1
+American Institute of Physics,Chaos An Interdisciplinary Journal of Nonlinear Science,1
+American Institute of Physics,Review of Scientific Instruments,1
+Elsevier ,Seminars in Cell and Developmental Biology,1
+Elsevier ,Biology of Blood and Marrow Transplantation,1
+Springer Nature,Nature Medicine,1
+Ovid Technologies (Wolters Kluwer)  - Lippincott Williams & Wilkins,Journal of Pediatric Hematology/Oncology,1
+Institute of Electrical and Electronics Engineers,IEEE Transactions on Visualization and Computer Graphics,1
+Wiley (John Wiley & Sons),Stem Cells,1
+Wiley (Blackwell Publishing),Restoration Ecology,1
+Wiley (John Wiley & Sons),Microscopy Research and Technique,1
+Elsevier ,Consciousness and Cognition,1
+Elsevier ,Journal of Stroke and Cerebrovascular Diseases,1
+Wiley (John Wiley & Sons),Genes Chromosomes and Cancer,1
+Informa UK (Taylor & Francis),Leukemia & Lymphoma,1
+Institute of Electrical and Electronics Engineers,IEEE Photonics Technology Letters,1
+Baishideng Publishing Group Co ,World Journal of Gastroenterology,1
+Medknow Publications,The Indian Journal of Medical Research,1
+Elsevier ,Neurobiology of Disease,1
+Elsevier ,Structure,1
+Elsevier ,Trends in Microbiology,1
+Wiley (Blackwell Publishing),Addiction,1
+Elsevier ,Insect Biochemistry and Molecular Biology,1
+Wiley (Blackwell Publishing),Insect Molecular Biology,1
+Elsevier ,European Journal of Cancer,1
+Elsevier ,Current Opinion in Structural Biology,1
+Elsevier ,Biosensors and Bioelectronics,1
+Wiley (John Wiley & Sons),NMR in Biomedicine,1
+Elsevier ,Microbiological Research,1
+Springer-Verlag,Acta Neurochirurgica,1
+Wiley (Blackwell Publishing),Journal of Applied Entomology,1
+Elsevier ,Journal of Physiology-Paris,1
+Elsevier ,Psychiatry Research Neuroimaging,1
+Elsevier ,Mechanisms of Development,1
+Elsevier ,Biochimica et Biophysica Acta (BBA) - Molecular Basis of Disease,1
+Elsevier ,Schizophrenia Research,1
+Elsevier ,Journal of Autoimmunity,1
+Wiley (John Wiley & Sons),Glia,1
+Elsevier ,Free Radical Biology and Medicine,1
+Elsevier ,Journal of Chemical Neuroanatomy,1
+Wiley (Blackwell Publishing),Acta Paediatrica,1
+Elsevier ,Food Microbiology,1
+Wiley (John Wiley & Sons),Journal of Orthopaedic Research®,1
+Elsevier ,Journal of Ethnopharmacology,1
+Elsevier ,Physica A Statistical Mechanics and its Applications,1
+Elsevier ,Toxicology Letters,1
+Elsevier ,Journal of Computational and Applied Mathematics,1
+Wiley (John Wiley & Sons),Annals of Neurology,1
+Ovid Technologies (Wolters Kluwer)  - Lippincott Williams & Wilkins,Spine,1
+Elsevier ,Brain Research Bulletin,1
+Wiley (Blackwell Publishing),Physiological Entomology,1
+Elsevier ,Medical Hypotheses,1
+Elsevier ,Journal of Thermal Biology,1
+Elsevier ,Cancer Letters,1
+Elsevier ,Biological Psychology,1
+Elsevier ,Biochimie,1
+Elsevier ,Journal of Dentistry,1
+Wiley (John Wiley & Sons),BioEssays,1
+IOP Publishing,Communications in Theoretical Physics,1
+Wiley (John Wiley & Sons),Journal of Basic Microbiology,1
+CrossRef test user,The Journal Of Test Deposits,1
+Elsevier ,Neurochemistry International,1
+Wiley (John Wiley & Sons),Electrophoresis,1
+Elsevier ,Trends in Ecology & Evolution,1
+Elsevier ,Plant Science,1
+Elsevier ,Journal of Hepatology,1
+Elsevier ,Virus Research,1
+Elsevier ,Trends in Biotechnology,1
+Elsevier ,Journal of Molecular Liquids,1
+Elsevier ,Journal of Microbiological Methods,1
+Elsevier ,Aquatic Toxicology,1
+Elsevier ,Journal of Economic Dynamics and Control,1
+Elsevier ,Ophthalmology,1
+Elsevier ,Intelligence,1
+Elsevier ,Current Problems in Cancer,1
+Wiley (Blackwell Publishing),Alcoholism Clinical and Experimental Research,1
+Elsevier ,Biomaterials,1
+Elsevier ,Marine Environmental Research,1
+Elsevier ,Journal of Allergy and Clinical Immunology,1
+SPIE - International Society for Optical Engineering,Optical Engineering,1
+Wiley (Blackwell Publishing),Annals of the New York Academy of Sciences,1
+Elsevier ,Journal of Human Evolution,1
+Elsevier ,Human Pathology,1
+Elsevier ,Virology,1
+Elsevier ,Toxicon,1
+Elsevier ,Talanta,1
+Wiley (John Wiley & Sons),Quarterly Journal of the Royal Meteorological Society,1
+Wiley (Blackwell Publishing),Plant Pathology,1
+Wiley (Blackwell Publishing),Physiologia Plantarum,1
+Naturalis Biodiversity Center,Persoonia - Molecular Phylogeny and Evolution of Fungi,1
+Elsevier ,Pattern Recognition,1
+Wiley (Blackwell Publishing),Journal of Wildlife Management,1
+Wiley (Blackwell Publishing),The Journal of Physiology,1
+Wiley (Blackwell Publishing),Journal of Phycology,1
+Wiley (Blackwell Publishing),Journal of Pharmacy and Pharmacology,1
+Elsevier ,Journal of Molecular and Cellular Cardiology,1
+Wiley (Blackwell Publishing),Journal of Fish Biology,1
+Oxford University Press,Journal of Economic Entomology,1
+Wiley (Blackwell Publishing),Journal of Ecology,1
+Wiley (John Wiley & Sons),Journal of Cellular Physiology,1
+Wiley (Blackwell Publishing),Journal of Anatomy,1
+Elsevier ,HOMO,1
+Elsevier ,General and Comparative Endocrinology,1
+Elsevier ,Gastroenterology,1
+Elsevier ,Earth-Science Reviews,1
+Elsevier ,Cognitive Psychology,1
+Elsevier ,Brain Research,1
+Elsevier ,Biochimica et Biophysica Acta (BBA) - Bioenergetics,1
+Wiley (Blackwell Publishing),Annals of Human Genetics,1
