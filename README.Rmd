@@ -23,17 +23,11 @@ suppressPackageStartupMessages(library(httr))
 
 
 ```{r}
-
 get_names <- function(x) {
-  z <- glue("http://api.crossref.org/journals/", x) %>% httr::GET()
-  if (httr::status_code(z) == 200) {
-    zz <- jsonlite::fromJSON(content(z, as = "text"))
-    data.frame(issn = x, publisher = zz$message$publisher, title = zz$message$title, stringsAsFactors = FALSE)
-  } else {
-    "NULL"
-  }
+  z <- cr_journals(x)$data
+  data.frame(issn = z$issn, publisher = z$publisher, title = z$title, 
+    stringsAsFactors = FALSE)
 }
-
 ```
 
 ```{r get_facets, cache = TRUE}
